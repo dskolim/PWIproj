@@ -1,0 +1,20 @@
+{% extends 'baza.html' %}
+{% load i18n %}
+
+{% block wynik %}
+
+    {% if gatunek_film %}
+
+        {% for film in gatunek_film %}
+
+            <p><a href="/film/{{ film.id }}" class="btn btn-light">{% trans film.nazwa %}</a></p>
+
+        {% endfor %}
+
+    {% else %}
+
+        <p>{% trans "Brak filmów w tej kategorii" %}</p>
+
+    {% endif %}
+
+{% endblock %}

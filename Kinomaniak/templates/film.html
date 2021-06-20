@@ -1,0 +1,17 @@
+{% extends 'baza.html' %}
+{% load i18n %}
+
+{% block wynik %}
+
+    {% if film_wybrany %}
+
+        <h1> {% trans film_wybrany.nazwa %} </h1>
+        <p class="m-5"> {% trans film_wybrany.opis %} </p>
+
+    {% else %}
+
+        <p>{% trans "ERROR 404 - nie znaleziono filmu" %}</p>
+
+    {% endif %}
+
+{% endblock %}

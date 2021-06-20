@@ -1,0 +1,239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-20 20:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\Kinomaniak\templates\baza.html:9 .\Kinomaniak\templates\baza.html:32
+#: .\Kinomaniak\templates\index.html:9 .\Kinomaniak\templates\index.html:43
+#: .\Kinomaniak\templates\index.html:80
+#: .\Kinomaniak\templates\tictactoemp.html:9
+#: .\Kinomaniak\templates\tictactoemp.html:80
+#: .\Kinomaniak\templates\tictactoesp.html:9
+#: .\Kinomaniak\templates\tictactoesp.html:80
+msgid "Kinomaniak"
+msgstr "Cinephile"
+
+#: .\Kinomaniak\templates\baza.html:39 .\Kinomaniak\templates\index.html:50
+#: .\Kinomaniak\templates\tictactoemp.html:87
+#: .\Kinomaniak\templates\tictactoesp.html:87
+msgid "Baza filmów"
+msgstr "Movies"
+
+#: .\Kinomaniak\templates\baza.html:42 .\Kinomaniak\templates\index.html:53
+#: .\Kinomaniak\templates\tictactoemp.html:90
+#: .\Kinomaniak\templates\tictactoesp.html:90
+msgid "Kółko i krzyżyk (1 gracz)"
+msgstr "Tic-Tac-Toe (1 player)"
+
+#: .\Kinomaniak\templates\baza.html:45 .\Kinomaniak\templates\index.html:56
+#: .\Kinomaniak\templates\tictactoemp.html:93
+#: .\Kinomaniak\templates\tictactoesp.html:93
+msgid "Kółko i krzyżyk (2 graczy)"
+msgstr "Tic-Tac-Toe (2 players)"
+
+#: .\Kinomaniak\templates\baza.html:54 .\Kinomaniak\templates\index.html:65
+#: .\Kinomaniak\templates\tictactoemp.html:102
+#: .\Kinomaniak\templates\tictactoesp.html:102
+msgid "Angielski"
+msgstr "English"
+
+#: .\Kinomaniak\templates\baza.html:62 .\Kinomaniak\templates\index.html:73
+#: .\Kinomaniak\templates\tictactoemp.html:110
+#: .\Kinomaniak\templates\tictactoesp.html:110
+msgid "Polski"
+msgstr "Polish"
+
+#: .\Kinomaniak\templates\baza.html:72
+msgid "Wszystkie"
+msgstr "All"
+
+#: .\Kinomaniak\templates\baza.html:75
+msgid "Wybierz gatunek z listy po lewej"
+msgstr "Select a category from the list"
+
+#: .\Kinomaniak\templates\film.html:13
+msgid "ERROR 404 - nie znaleziono filmu"
+msgstr "ERROR 404 - movies not found"
+
+#: .\Kinomaniak\templates\gatunek_film.html:16
+msgid "Brak filmów w tej kategorii"
+msgstr "No movies in this category"
+
+#: .\Kinomaniak\templates\index.html:81
+msgid "Strona stworzona z myślą o fanatykach kinematografii"
+msgstr "Website created for all cinema fans"
+
+#: .\Kinomaniak\templates\index.html:82
+msgid "Prace nad stroną trwają..."
+msgstr "Work in progress..."
+
+#: .\Kinomaniak\templates\tictactoemp.html:117
+#: .\Kinomaniak\templates\tictactoesp.html:117
+msgid "Kółko i krzyżyk"
+msgstr "Tic-Tac-Toe"
+
+msgid "Akcja"
+msgstr "Action"
+
+msgid "Dramat"
+msgstr "Drama"
+
+msgid "Familijny"
+msgstr "Family"
+
+msgid "Szybcy i wściekli"
+msgstr "The Fast and The Furious"
+
+msgid "Jak wytresować smoka"
+msgstr "How to Train Your Dragon"
+
+msgid "Król lew"
+msgstr "The Lion King"
+
+msgid "Incepcja"
+msgstr "Inception"
+
+msgid "Ojciec chrzestny"
+msgstr "The Godfather"
+
+msgid "Szeregowiec Ryan"
+msgstr "Saving Private Ryan"
+
+msgid "Milczenie owiec"
+msgstr "The Silence of the Lambs"
+
+msgid "Skazani na Shawshank"
+msgstr "The Shawshank Redemption"
+
+msgid "Zielona mila"
+msgstr "The Green Mile"
+
+msgid "Matrix"
+msgstr "The Matrix"
+
+msgid ""
+"Amerykański film pełnometrażowy w reżyserii Justina Lina z 2021 roku. "
+"Scenariusz do filmu napisali Chris Morgan oraz Daniel Casey. Obraz został "
+"wyprodukowany przez studio Universal Pictures, a dystrybuowany na terenie "
+"całego świata przez Universal Studios Entertainment."
+msgstr ""
+"Los Angeles police officer Brian O'Conner must decide where his loyalty "
+"really lies when he becomes enamored with the street racing world he has "
+"been sent undercover to destroy."
+
+msgid ""
+"Aparycja i osobowość Szczerbatka (Nocnej Furii) zostały stworzone na "
+"podstawie zachowań i wyglądu domowych kotów."
+msgstr ""
+"A hapless young Viking who aspires to hunt dragons becomes the unlikely "
+"friend of a young dragon himself, and learns there may be more to the "
+"creatures than he assumed."
+
+msgid ""
+"Film animowany ze studia Walta Disneya, wydany w 1994. W historii tej "
+"wytwórni był to 32. pełnometrażowy film. Fabuła filmu pokazuje losy Simby "
+"– młodego lwa, który poznaje swoje miejsce w „Wielkim kręgu życia” i "
+"pokonuje szereg przeszkód, by zostać królem Lwiej Ziemi."
+msgstr ""
+"Lion prince Simba and his father are targeted by his bitter uncle, who "
+"wants to ascend the throne himself."
+
+msgid ""
+"Amerykański thriller z 2010 roku. Zdobywca 4 Oscarów za najlepsze: "
+"zdjęcia, dźwięk, montaż dźwięku i efekty specjalne. Twórcą i reżyserem "
+"filmu jest Christopher Nolan. Scenariusz do filmu otrzymał nagrodę Hugo w "
+"kategorii najlepsza prezentacja dramatyczna w 2011 roku."
+msgstr ""
+"A thief who steals corporate secrets through the use of dream-sharing "
+"technology is given the inverse task of planting an idea into the mind of "
+"a C.E.O."
+
+msgid ""
+"Amerykański dramat gangsterski wyreżyserowany przez Francisa Forda "
+"Coppolę. Premiera filmu odbyła się w 1972 roku. Jego fabuła oparta jest "
+"na powieści o tym samym tytule autorstwa amerykańskiego pisarza włoskiego "
+"pochodzenia Maria Puzo. Scenariusz napisali wspólnie Puzo i Coppola."
+msgstr ""
+"An organized crime dynasty's aging patriarch transfers control of his "
+"clandestine empire to his reluctant son."
+
+msgid ""
+"Wyprodukowany w 1998 roku dramat wojenny, opowiadający o wydarzeniach z "
+"czasów II wojny światowej. Tłem fabuły jest operacja Overlord, czyli "
+"lądowanie aliantów w Normandii w czerwcu 1944 r."
+msgstr ""
+"Following the Normandy Landings, a group of U.S. soldiers go behind enemy "
+"lines to retrieve a paratrooper whose brothers have been killed in action."
+
+msgid ""
+"Wyprodukowany został przez DreamWorks Animation. Światowa premiera miała "
+"miejsce 22 kwietnia 2001 r., a polska premiera 13 lipca 2001 r. Film ten "
+"osiągnął niesamowity sukces."
+msgstr ""
+"A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who "
+"must go on a quest and rescue a princess for the lord in order to get his "
+"land back."
+
+msgid ""
+"Amerykański thriller psychologiczny z 1991 roku w reżyserii Jonathana "
+"Demme. Po jego sukcesie zrealizowano serię filmów o Hannibalu Lecterze: "
+"Hannibal – sequel Milczenia owiec Czerwony smok – prequel Milczenia owiec "
+"Hannibal. Po drugiej stronie maski – prequel Czerwonego smoka"
+msgstr ""
+"A young F.B.I. cadet must receive the help of an incarcerated and "
+"manipulative cannibal killer to help catch another serial killer, a "
+"madman who skins his victims."
+
+msgid ""
+"Amerykański film science fiction z 2009, wyreżyserowany, napisany oraz "
+"wyprodukowany przez Jamesa Camerona. Produkcja została wykonana przy "
+"użyciu przełomowych technik filmowych. Budżet filmu oficjalnie wyniósł "
+"237 milionów dolarów. Według innych szacunków wynosił od 280 do 310 "
+"milionów."
+msgstr ""
+"A paraplegic Marine dispatched to the moon Pandora on a unique mission "
+"becomes torn between following his orders and protecting the world he "
+"feels is his home."
+
+msgid ""
+"Australijsko-amerykański film science fiction, pierwszy z trylogii "
+"filmowej o tej samej nazwie, napisany i wyreżyserowany przez rodzeństwo "
+"Wachowskich. Kontynuacjami filmu są obrazy Matrix: Reaktywacja i Matrix: "
+"Rewolucje."
+msgstr ""
+"When a beautiful stranger leads computer hacker Neo to a forbidding "
+"underworld, he discovers the shocking truth--the life he knows is the "
+"elaborate deception of an evil cyber-intelligence."
+
+msgid ""
+"Amerykański film fabularny z 1994 roku, w reż. Franka Darabonta z Timem "
+"Robbinsem i Morganem Freemanem w rolach głównych. Na podstawie "
+"opowiadania Stephena Kinga."
+msgstr ""
+"Two imprisoned men bond over a number of years, finding solace and "
+"eventual redemption through acts of common decency."
+
+msgid ""
+"Amerykański film fabularny z 1999 roku w reżyserii Franka Darabonta, z "
+"Tomem Hanksem i Michaelem Duncanem w rolach głównych. Scenariusz filmu "
+"oparty jest na powieści Stephena Kinga pod tym samym tytułem. W roku 2000 "
+"film był nominowany do Oscara w czterech kategoriach nie zdobył jednak "
+"żadnej statuetki."
+msgstr ""
+"The lives of guards on Death Row are affected by one of their charges: a "
+"black man accused of child murder and rape, yet who has a mysterious gift."
